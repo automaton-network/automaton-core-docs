@@ -1,0 +1,37 @@
+<map id="automaton::core::data::msg::msg" name="automaton::core::data::msg::msg">
+<area shape="rect" id="node1" title=" " alt="" coords="248,1333,393,1374"/>
+<area shape="rect" id="node2" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#afc8107c18c2ff00add059deb170bd6bb" title=" " alt="" coords="30,5,175,61"/>
+<area shape="rect" id="node3" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#af5885ae26f674c7a3bd43255aac2ff59" title=" " alt="" coords="30,85,175,141"/>
+<area shape="rect" id="node4" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#afeb92bde5e10bbcafc64a11551bbcc5f" title=" " alt="" coords="30,165,175,221"/>
+<area shape="rect" id="node5" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#a454402819cecb6f623bcd11848c8f74e" title=" " alt="" coords="30,245,175,301"/>
+<area shape="rect" id="node6" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#a705094d44aaf042462c9eb5b60136438" title=" " alt="" coords="30,325,175,381"/>
+<area shape="rect" id="node7" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#aa154624ac161e7e0266ab3a294f38210" title=" " alt="" coords="30,405,175,461"/>
+<area shape="rect" id="node8" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#ad5d455dcae10bde4ec57af8d67390190" title=" " alt="" coords="30,485,175,541"/>
+<area shape="rect" id="node9" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#a7c37bc4eae84e66cb2460a4b7acf9b11" title=" " alt="" coords="19,565,186,621"/>
+<area shape="rect" id="node10" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#a505eb83e290a81d7676bf598d5051fbc" title=" " alt="" coords="9,645,196,701"/>
+<area shape="rect" id="node11" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#a377dd20186ea286988b5f5c7ea236f77" title=" " alt="" coords="15,725,190,781"/>
+<area shape="rect" id="node12" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#a9ce094cd03c1c2162e44ea2186fe589e" title=" " alt="" coords="5,805,200,861"/>
+<area shape="rect" id="node13" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#a01a5920cdf74978a4c915ce4afccdd3b" title=" " alt="" coords="17,885,188,941"/>
+<area shape="rect" id="node14" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#a44eb85a756f4927faa15db7fbd60dad7" title=" " alt="" coords="17,965,188,1021"/>
+<area shape="rect" id="node15" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#a79d0d6f0423fb0612f53946a9908ba77" title=" " alt="" coords="5,1045,200,1101"/>
+<area shape="rect" id="node16" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#acc61fced84e691fdc54b5f396fe07711" title=" " alt="" coords="14,1125,191,1181"/>
+<area shape="rect" id="node17" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#ae50ffebecaab7da4eff368cabd263303" title=" " alt="" coords="14,1205,191,1261"/>
+<area shape="rect" id="node18" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#a16529e903d6f66281e52d488777e4d3f" title=" " alt="" coords="30,1285,175,1341"/>
+<area shape="rect" id="node19" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#af686d0e7cafff78ef6f43fe482ca078a" title=" " alt="" coords="30,1365,175,1421"/>
+<area shape="rect" id="node20" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#a71e10e9b38804873b9232fb1a8a5ca42" title="Blob (string, bytes, ...)" alt="" coords="30,1445,175,1501"/>
+<area shape="rect" id="node21" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#a739337f16ad5d3e97ce76bccda744352" title="Boolean." alt="" coords="30,1525,175,1581"/>
+<area shape="rect" id="node22" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#ae0a51875adeb5cb0fa20111c7f40faf5" title=" " alt="" coords="30,1605,175,1661"/>
+<area shape="rect" id="node23" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#a7790135de9164df85fad6db85b29ba8f" title="Int 32." alt="" coords="30,1685,175,1741"/>
+<area shape="rect" id="node24" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#aa9803aef4286c55c21681e19e5a4ad34" title="Int 64." alt="" coords="30,1765,175,1821"/>
+<area shape="rect" id="node25" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#a2e4cc1a225edd6f1ca463df7e78210f7" title="Message." alt="" coords="30,1845,175,1901"/>
+<area shape="rect" id="node26" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#a7f4f95e1d495ede8cbe454e9dc056e73" title=" " alt="" coords="19,1925,186,1981"/>
+<area shape="rect" id="node27" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#af39067cb988d89391a2f03078e12e8c7" title=" " alt="" coords="9,2005,196,2061"/>
+<area shape="rect" id="node28" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#a3e8e4c9d07ba21ce73addc06f5f376b5" title=" " alt="" coords="15,2085,190,2141"/>
+<area shape="rect" id="node29" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#a8880de3d617f7b154bf124f85a5c20dc" title=" " alt="" coords="17,2165,188,2221"/>
+<area shape="rect" id="node30" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#a6dd4ed7e90fba7f0a7821e077da258b8" title=" " alt="" coords="17,2245,188,2301"/>
+<area shape="rect" id="node31" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#a03a7b4eec8dad4d934968613ea74aa7b" title=" " alt="" coords="5,2325,200,2381"/>
+<area shape="rect" id="node32" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#a414402bb2ecc9e2157a1363234d7c219" title=" " alt="" coords="14,2405,191,2461"/>
+<area shape="rect" id="node33" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#a31abe098641339cf4c06afbacd47d8dd" title=" " alt="" coords="14,2485,191,2541"/>
+<area shape="rect" id="node34" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#aa22c7352faa607eb3904953e4b72060a" title="uint32_t 32" alt="" coords="30,2565,175,2621"/>
+<area shape="rect" id="node35" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#a0406336df6394bd33b5cf291479c2adc" title="uint32_t 64" alt="" coords="30,2645,175,2701"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="automaton::core::network::tcp_connection::connect" name="automaton::core::network::tcp_connection::connect">
+<area shape="rect" id="node1" title=" " alt="" coords="5,77,173,119"/>
+<area shape="rect" id="node2" href="$d3/d6a/classautomaton_1_1core_1_1network_1_1tcp__connection.html#a83e55104ecb4ae8ecb04a9de358aafb9" title=" " alt="" coords="231,5,407,47"/>
+<area shape="rect" id="node3" href="$d6/d94/classautomaton_1_1core_1_1network_1_1connection_1_1connection__handler.html#a52824e75e685277e68856357b71d4aff" title=" " alt="" coords="235,70,402,126"/>
+<area shape="rect" id="node4" href="$d6/d94/classautomaton_1_1core_1_1network_1_1connection_1_1connection__handler.html#a0ed6f9fe2c3e17699a7577a64bb326cc" title=" " alt="" coords="221,150,416,206"/>
+</map>

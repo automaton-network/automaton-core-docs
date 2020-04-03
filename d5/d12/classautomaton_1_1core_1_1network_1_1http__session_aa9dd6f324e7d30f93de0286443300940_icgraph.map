@@ -1,0 +1,6 @@
+<map id="automaton::core::network::http_session::read_header" name="automaton::core::network::http_session::read_header">
+<area shape="rect" id="node1" title=" " alt="" coords="665,5,844,47"/>
+<area shape="rect" id="node2" href="$d5/d12/classautomaton_1_1core_1_1network_1_1http__session.html#a4cc4f5c70734e37eb7550d5ce11dbd88" title=" " alt="" coords="451,5,617,47"/>
+<area shape="rect" id="node3" href="$d9/d1d/classautomaton_1_1core_1_1network_1_1http__server.html#a71bb3df29d9874e6ee841aaac849f733" title=" " alt="" coords="220,5,403,47"/>
+<area shape="rect" id="node4" href="$d9/d1d/classautomaton_1_1core_1_1network_1_1http__server.html#afc7d40088d5a24974d046c2488a10d28" title=" " alt="" coords="5,5,172,47"/>
+</map>

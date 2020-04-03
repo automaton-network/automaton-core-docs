@@ -1,0 +1,7 @@
+<map id="automaton::core::node::node" name="automaton::core::node::node">
+<area shape="rect" id="node1" title=" " alt="" coords="236,85,384,126"/>
+<area shape="rect" id="node5" href="$d3/d27/classautomaton_1_1core_1_1node_1_1luanode_1_1lua__node.html" title=" " alt="" coords="432,85,580,126"/>
+<area shape="rect" id="node2" href="$d6/d94/classautomaton_1_1core_1_1network_1_1connection_1_1connection__handler.html" title=" " alt="" coords="13,5,180,61"/>
+<area shape="rect" id="node3" href="$d0/d47/classautomaton_1_1core_1_1network_1_1acceptor_1_1acceptor__handler.html" title=" " alt="" coords="5,85,188,126"/>
+<area shape="rect" id="node4" title=" " alt="" coords="30,150,163,191"/>
+</map>

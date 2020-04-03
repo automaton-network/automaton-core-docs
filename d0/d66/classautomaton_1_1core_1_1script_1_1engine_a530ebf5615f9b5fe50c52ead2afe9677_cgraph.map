@@ -1,0 +1,41 @@
+<map id="automaton::core::script::engine::bind_core" name="automaton::core::script::engine::bind_core">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1521,157,1563"/>
+<area shape="rect" id="node2" href="$d0/d66/classautomaton_1_1core_1_1script_1_1engine.html#a925a6d6835a27a653e42b5e0eceaa19d" title=" " alt="" coords="205,933,357,975"/>
+<area shape="rect" id="node3" href="$d0/d66/classautomaton_1_1core_1_1script_1_1engine.html#a4f4719e361bd2060b567ce3b3462a29e" title=" " alt="" coords="205,999,357,1040"/>
+<area shape="rect" id="node33" href="$d0/d66/classautomaton_1_1core_1_1script_1_1engine.html#a0d3f6e578e8f9ff451d62cd5faf0acfc" title=" " alt="" coords="205,1488,357,1529"/>
+<area shape="rect" id="node37" href="$d0/d66/classautomaton_1_1core_1_1script_1_1engine.html#aeb84ea6917ae352451bdc810429d69f6" title=" " alt="" coords="205,1553,357,1595"/>
+<area shape="rect" id="node38" href="$d0/d66/classautomaton_1_1core_1_1script_1_1engine.html#af82abc3d77ec145e5ed3368f246c2c49" title=" " alt="" coords="205,1619,357,1660"/>
+<area shape="rect" id="node39" href="$d0/d66/classautomaton_1_1core_1_1script_1_1engine.html#acaf7ede2105fc5d981c021e1774785b6" title=" " alt="" coords="205,1684,357,1725"/>
+<area shape="rect" id="node4" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#a3aea46e694ea2016c61f9495c4b558bc" title=" " alt="" coords="430,5,575,47"/>
+<area shape="rect" id="node5" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#adcf5eb437d93d109540a16b2b6d8d6a9" title=" " alt="" coords="430,70,575,126"/>
+<area shape="rect" id="node6" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#ae7a2dadc5374c8ce717a879d7315b12a" title=" " alt="" coords="430,149,575,191"/>
+<area shape="rect" id="node7" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#aec5ae04b8137712edbea43dc5d870870" title=" " alt="" coords="430,215,575,256"/>
+<area shape="rect" id="node8" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#ac548cc4d404e34c95064c7ef712703a3" title=" " alt="" coords="430,280,575,321"/>
+<area shape="rect" id="node9" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#ab5c755bb322166fc1eef32b0c8eab679" title=" " alt="" coords="430,345,575,387"/>
+<area shape="rect" id="node10" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#a16c733332be25b896b2cfeb49f884dcb" title=" " alt="" coords="420,411,585,452"/>
+<area shape="rect" id="node11" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#a2ac6900e4b5cadd69553007d58cdb628" title=" " alt="" coords="405,476,600,517"/>
+<area shape="rect" id="node12" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#a4c83d07c5bbb616171055a63a3299254" title=" " alt="" coords="418,541,587,583"/>
+<area shape="rect" id="node13" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#a789b7a2e0816a475e0636e3abc7cf51b" title=" " alt="" coords="418,607,587,648"/>
+<area shape="rect" id="node14" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#a9980d8eee10bed937b188dd0e5ffc654" title=" " alt="" coords="405,672,600,713"/>
+<area shape="rect" id="node15" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#adc7a2087ba516df32853da63d0980df3" title=" " alt="" coords="415,737,591,779"/>
+<area shape="rect" id="node16" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#a0d8068e8377bb3b6ba35b051da994f35" title=" " alt="" coords="415,803,591,844"/>
+<area shape="rect" id="node17" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#aff3cccce7da76dc466e5ce774ae44fb5" title=" " alt="" coords="430,868,575,909"/>
+<area shape="rect" id="node18" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#aac351f102c633d1049c074ec59df8d8e" title=" " alt="" coords="430,933,575,975"/>
+<area shape="rect" id="node19" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#ad0a92bbfe73c7e1dd064f323c3286a84" title=" " alt="" coords="419,999,586,1040"/>
+<area shape="rect" id="node20" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#ab7256a6872e210058913306156a4b45d" title="Blob (string, bytes, ...)" alt="" coords="430,1064,575,1105"/>
+<area shape="rect" id="node21" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#aef31df693a43c6eea28066af0c637cf1" title="Int 32." alt="" coords="430,1129,575,1171"/>
+<area shape="rect" id="node22" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#af12fa2bc1d85b2f6cf6c572c4ef82a8f" title="Int 64." alt="" coords="430,1195,575,1236"/>
+<area shape="rect" id="node23" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#af0abc04fbde113aad242ce0d57946a6d" title=" " alt="" coords="430,1260,575,1301"/>
+<area shape="rect" id="node24" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#a0d902da0bc27fd5420faab1c9f7edca0" title=" " alt="" coords="420,1325,585,1367"/>
+<area shape="rect" id="node25" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#ade108c04ebec2e00bcd539779a1255f9" title=" " alt="" coords="418,1391,587,1432"/>
+<area shape="rect" id="node26" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#a7c8a1f5013504574ac8b88d2d0ec1ee7" title=" " alt="" coords="418,1456,587,1497"/>
+<area shape="rect" id="node27" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#ac3e8f5bb0cc6fa9f9a7657e5b11f8af3" title=" " alt="" coords="405,1521,600,1563"/>
+<area shape="rect" id="node28" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#ae129b792bec8f390180ed59ede34329c" title=" " alt="" coords="415,1587,591,1628"/>
+<area shape="rect" id="node29" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#a76d24e9f96e8f42d8971766b627e929b" title=" " alt="" coords="415,1652,591,1693"/>
+<area shape="rect" id="node30" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#a2d0d71b177479f58c9deff474d4b6807" title="uint32_t 32" alt="" coords="430,1717,575,1759"/>
+<area shape="rect" id="node31" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#a561fa8caa0915359f97a8cac3e39e066" title="uint32_t 64" alt="" coords="430,1783,575,1824"/>
+<area shape="rect" id="node32" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#a94187c48007b3c3b35393f93d9614bc5" title=" " alt="" coords="430,1848,575,1889"/>
+<area shape="rect" id="node34" href="$da/dd5/namespaceautomaton_1_1core_1_1io.html#ab19202c80dffefe2cd1a87a60d06a0b3" title=" " alt="" coords="437,1913,568,1955"/>
+<area shape="rect" id="node35" href="$da/dd5/namespaceautomaton_1_1core_1_1io.html#a6e93384a5c0d6481352d0ec3211a3d2d" title=" " alt="" coords="437,1979,568,2020"/>
+<area shape="rect" id="node36" href="$da/dd5/namespaceautomaton_1_1core_1_1io.html#abe415d62b91abcbae08337eb7a6c65de" title=" " alt="" coords="648,1979,779,2020"/>
+</map>

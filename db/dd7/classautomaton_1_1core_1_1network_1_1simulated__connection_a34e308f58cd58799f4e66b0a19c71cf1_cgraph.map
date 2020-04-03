@@ -1,0 +1,13 @@
+<map id="automaton::core::network::simulated_connection::disconnect" name="automaton::core::network::simulated_connection::disconnect">
+<area shape="rect" id="node1" title=" " alt="" coords="5,149,172,205"/>
+<area shape="rect" id="node2" href="$db/dd7/classautomaton_1_1core_1_1network_1_1simulated__connection.html#a22ee9f2889b620302bd98d2fbec4ed77" title=" " alt="" coords="237,5,404,61"/>
+<area shape="rect" id="node3" href="$d7/ded/classautomaton_1_1core_1_1network_1_1simulation.html#ad00c2b3b98e9eb6b251f39549d46baf4" title=" " alt="" coords="235,85,406,126"/>
+<area shape="rect" id="node4" href="$db/dd7/classautomaton_1_1core_1_1network_1_1simulated__connection.html#a28dcbba8b41af6af145287d29a78777c" title=" " alt="" coords="237,149,404,205"/>
+<area shape="rect" id="node5" href="$d7/ded/classautomaton_1_1core_1_1network_1_1simulation.html#a88f01d284e8f9f0a15f32361c1f788aa" title=" " alt="" coords="220,229,421,270"/>
+<area shape="rect" id="node11" href="$db/dd7/classautomaton_1_1core_1_1network_1_1simulated__connection.html#a075954c04ab281ccb09b6243adc946f1" title=" " alt="" coords="237,293,404,349"/>
+<area shape="rect" id="node6" href="$d7/ded/classautomaton_1_1core_1_1network_1_1simulation.html#a2fd9860eee7ca8e52875ccfa65c0e978" title=" " alt="" coords="471,98,674,139"/>
+<area shape="rect" id="node7" href="$d7/ded/classautomaton_1_1core_1_1network_1_1simulation.html#a05ab8136b235c876c4f4176debd962df" title=" " alt="" coords="489,163,656,205"/>
+<area shape="rect" id="node8" href="$d7/ded/classautomaton_1_1core_1_1network_1_1simulation.html#a8df9259f277318e270877ed98f4be2e1" title=" " alt="" coords="482,229,663,270"/>
+<area shape="rect" id="node9" href="$d7/ded/classautomaton_1_1core_1_1network_1_1simulation.html#a6ac8458190dbb7d9291a43c49b574e51" title=" " alt="" coords="489,294,656,335"/>
+<area shape="rect" id="node10" href="$d7/ded/classautomaton_1_1core_1_1network_1_1simulation.html#a33b53d8ea424acdc1a27747145cd3a5d" title=" " alt="" coords="469,359,676,401"/>
+</map>

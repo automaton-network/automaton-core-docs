@@ -1,0 +1,6 @@
+<map id="automaton::core::network::tcp_init" name="automaton::core::network::tcp_init">
+<area shape="rect" id="node1" title=" " alt="" coords="5,77,172,119"/>
+<area shape="rect" id="node2" href="$db/d4c/classautomaton_1_1core_1_1network_1_1acceptor.html#ac7087f848c433c0894d668d22a800d0c" title=" " alt="" coords="220,5,435,47"/>
+<area shape="rect" id="node3" href="$d9/dfe/classautomaton_1_1core_1_1network_1_1connection.html#a437d58abd85c1a164dac2409469e2e11" title=" " alt="" coords="244,70,411,126"/>
+<area shape="rect" id="node4" href="$de/d12/namespaceel_1_1base_1_1debug.html#af8af3a0ae3755b37ede9f5b4c9e8173c" title=" " alt="" coords="237,150,417,177"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="automaton::core::network::connection::connection_handler" name="automaton::core::network::connection::connection_handler">
+<area shape="rect" id="node1" title=" " alt="" coords="5,63,172,119"/>
+<area shape="rect" id="node2" href="$d2/d04/classautomaton_1_1core_1_1eth__contract_1_1eth__contract.html" title=" " alt="" coords="220,5,375,47"/>
+<area shape="rect" id="node3" href="$da/d77/classautomaton_1_1core_1_1node_1_1node.html" title=" " alt="" coords="223,71,371,112"/>
+<area shape="rect" id="node5" href="$d7/d06/classclient__handler.html" title=" " alt="" coords="246,137,349,163"/>
+<area shape="rect" id="node4" href="$d3/d27/classautomaton_1_1core_1_1node_1_1luanode_1_1lua__node.html" title=" " alt="" coords="423,71,571,112"/>
+</map>

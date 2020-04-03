@@ -1,0 +1,5 @@
+<map id="automaton::core::network::acceptor" name="automaton::core::network::acceptor">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,172,80"/>
+<area shape="rect" id="node2" href="$df/db6/classautomaton_1_1core_1_1network_1_1simulated__acceptor.html" title=" " alt="" coords="220,5,387,47"/>
+<area shape="rect" id="node3" href="$d9/db9/classautomaton_1_1core_1_1network_1_1tcp__acceptor.html" title=" " alt="" coords="220,71,387,112"/>
+</map>

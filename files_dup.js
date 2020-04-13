@@ -39,14 +39,18 @@ var files_dup =
       [ "engine", "d0/d66/classautomaton_1_1core_1_1script_1_1engine.html", "d0/d66/classautomaton_1_1core_1_1script_1_1engine" ]
     ] ],
     [ "eth_contract_curl.cc", "d8/da6/eth__contract__curl_8cc.html", "d8/da6/eth__contract__curl_8cc" ],
-    [ "eth_contract_curl.h", "de/de4/eth__contract__curl_8h.html", "de/de4/eth__contract__curl_8h" ],
+    [ "eth_contract_curl.h", "de/de4/eth__contract__curl_8h.html", [
+      [ "eth_contract", "d4/de7/classautomaton_1_1core_1_1interop_1_1ethereum_1_1eth__contract.html", "d4/de7/classautomaton_1_1core_1_1interop_1_1ethereum_1_1eth__contract" ]
+    ] ],
     [ "eth_contract_curl_test.cc", "d4/d57/eth__contract__curl__test_8cc.html", "d4/d57/eth__contract__curl__test_8cc" ],
     [ "eth_contract_raw.cc", "d2/d4b/eth__contract__raw_8cc.html", "d2/d4b/eth__contract__raw_8cc" ],
     [ "eth_contract_raw.h", "df/df6/eth__contract__raw_8h.html", "df/df6/eth__contract__raw_8h" ],
     [ "eth_contract_raw_test.cc", "df/d01/eth__contract__raw__test_8cc.html", "df/d01/eth__contract__raw__test_8cc" ],
     [ "eth_helper_functions.h", "dc/dbc/eth__helper__functions_8h.html", "dc/dbc/eth__helper__functions_8h" ],
-    [ "eth_transaction.cc", "da/d5c/eth__transaction_8cc.html", "da/d5c/eth__transaction_8cc" ],
-    [ "eth_transaction.h", "d3/d9c/eth__transaction_8h.html", "d3/d9c/eth__transaction_8h" ],
+    [ "eth_transaction.cc", "da/d5c/eth__transaction_8cc.html", null ],
+    [ "eth_transaction.h", "d3/d9c/eth__transaction_8h.html", [
+      [ "eth_transaction", "dd/da0/classautomaton_1_1core_1_1interop_1_1ethereum_1_1eth__transaction.html", "dd/da0/classautomaton_1_1core_1_1interop_1_1ethereum_1_1eth__transaction" ]
+    ] ],
     [ "factory.cc", "d1/d4e/factory_8cc.html", null ],
     [ "factory.h", "de/d06/factory_8h.html", [
       [ "factory", "d2/d94/classautomaton_1_1core_1_1data_1_1factory.html", "d2/d94/classautomaton_1_1core_1_1data_1_1factory" ]

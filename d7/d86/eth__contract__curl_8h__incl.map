@@ -1,17 +1,15 @@
 <map id="eth_contract_curl.h" name="eth_contract_curl.h">
-<area shape="rect" id="node1" title=" " alt="" coords="305,5,437,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="375,5,507,32"/>
 <area shape="rect" id="node2" title=" " alt="" coords="5,87,84,114"/>
-<area shape="rect" id="node3" title=" " alt="" coords="317,177,385,203"/>
-<area shape="rect" id="node4" title=" " alt="" coords="636,259,691,285"/>
-<area shape="rect" id="node5" title=" " alt="" coords="211,87,321,114"/>
-<area shape="rect" id="node6" title=" " alt="" coords="345,87,397,114"/>
-<area shape="rect" id="node7" title=" " alt="" coords="422,87,481,114"/>
-<area shape="rect" id="node8" title=" " alt="" coords="505,87,584,114"/>
-<area shape="rect" id="node9" title=" " alt="" coords="608,87,679,114"/>
-<area shape="rect" id="node10" href="$d4/d67/connection_8h.html" title=" " alt="" coords="703,80,866,121"/>
-<area shape="rect" id="node11" title=" " alt="" coords="892,177,939,203"/>
-<area shape="rect" id="node12" title=" " alt="" coords="567,177,626,203"/>
-<area shape="rect" id="node13" href="$d1/d13/status_8h.html" title=" " alt="" coords="701,169,868,211"/>
-<area shape="rect" id="node14" title=" " alt="" coords="733,259,802,285"/>
-<area shape="rect" id="node15" title=" " alt="" coords="826,259,898,285"/>
+<area shape="rect" id="node3" title=" " alt="" coords="108,87,176,114"/>
+<area shape="rect" id="node4" title=" " alt="" coords="200,87,257,114"/>
+<area shape="rect" id="node5" title=" " alt="" coords="531,169,585,196"/>
+<area shape="rect" id="node6" title=" " alt="" coords="333,87,444,114"/>
+<area shape="rect" id="node7" title=" " alt="" coords="468,87,520,114"/>
+<area shape="rect" id="node8" title=" " alt="" coords="545,87,603,114"/>
+<area shape="rect" id="node9" title=" " alt="" coords="628,87,707,114"/>
+<area shape="rect" id="node10" title=" " alt="" coords="731,87,801,114"/>
+<area shape="rect" id="node11" href="$d1/d13/status_8h.html" title=" " alt="" coords="825,80,992,121"/>
+<area shape="rect" id="node12" title=" " alt="" coords="826,169,895,196"/>
+<area shape="rect" id="node13" title=" " alt="" coords="919,169,991,196"/>
 </map>

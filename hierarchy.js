@@ -29,6 +29,7 @@ var hierarchy =
       [ "client_handler", "d7/d06/classclient__handler.html", null ]
     ] ],
     [ "automaton::core::network::connection_params", "d6/de8/structautomaton_1_1core_1_1network_1_1connection__params.html", null ],
+    [ "automaton::core::interop::ethereum::curl_struct", "dd/ddc/structautomaton_1_1core_1_1interop_1_1ethereum_1_1curl__struct.html", null ],
     [ "automaton::core::crypto::digital_signature", "db/dcb/classautomaton_1_1core_1_1crypto_1_1digital__signature.html", [
       [ "automaton::core::crypto::cryptopp::secp256k1_cryptopp", "d0/d6d/classautomaton_1_1core_1_1crypto_1_1cryptopp_1_1secp256k1__cryptopp.html", null ],
       [ "automaton::core::crypto::ed25519_orlp::ed25519_orlp", "d4/dc1/classautomaton_1_1core_1_1crypto_1_1ed25519__orlp_1_1ed25519__orlp.html", null ]
@@ -95,13 +96,13 @@ var hierarchy =
     ] ],
     [ "automaton::core::network::simulation", "d7/ded/classautomaton_1_1core_1_1network_1_1simulation.html", null ],
     [ "automaton::core::smartproto::smart_protocol", "d7/db8/classautomaton_1_1core_1_1smartproto_1_1smart__protocol.html", null ],
-    [ "state", null, [
-      [ "automaton::core::script::engine", "d0/d66/classautomaton_1_1core_1_1script_1_1engine.html", null ]
-    ] ],
     [ "automaton::core::state::state", "de/dee/classautomaton_1_1core_1_1state_1_1state.html", [
       [ "automaton::core::state::dummy_state", "dc/d2a/classautomaton_1_1core_1_1state_1_1dummy__state.html", null ],
       [ "automaton::core::state::state_impl", "dd/da5/classautomaton_1_1core_1_1state_1_1state__impl.html", null ],
       [ "automaton::core::state::state_persistent", "dc/ddc/classautomaton_1_1core_1_1state_1_1state__persistent.html", null ]
+    ] ],
+    [ "state", null, [
+      [ "automaton::core::script::engine", "d0/d66/classautomaton_1_1core_1_1script_1_1engine.html", null ]
     ] ],
     [ "automaton::core::script::module::static_function_info", "d2/d6a/structautomaton_1_1core_1_1script_1_1module_1_1static__function__info.html", null ],
     [ "automaton::core::common::status", "da/d6a/structautomaton_1_1core_1_1common_1_1status.html", null ],

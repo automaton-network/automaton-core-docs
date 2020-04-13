@@ -1,5 +1,6 @@
 var eth__helper__functions_8h =
 [
+    [ "curl_struct", "dd/ddc/structautomaton_1_1core_1_1interop_1_1ethereum_1_1curl__struct.html", "dd/ddc/structautomaton_1_1core_1_1interop_1_1ethereum_1_1curl__struct" ],
     [ "type", "d7/dea/structautomaton_1_1core_1_1interop_1_1ethereum_1_1type.html", "d7/dea/structautomaton_1_1core_1_1interop_1_1ethereum_1_1type" ],
     [ "json", "dc/dbc/eth__helper__functions_8h.html#ab701e3ac61a85b337ec5c1abaad6742d", null ],
     [ "abi_array_type", "dc/dbc/eth__helper__functions_8h.html#a665dabf846b7db3af4549ac797e48db0", [
@@ -16,11 +17,14 @@ var eth__helper__functions_8h =
     ] ],
     [ "calculate_offset", "dc/dbc/eth__helper__functions_8h.html#aa50eed459424657a958f1de0e7668bea", null ],
     [ "check_and_resize_buffer", "dc/dbc/eth__helper__functions_8h.html#a414060673c883b4f153cd1a613df435f", null ],
+    [ "create_new_curl_struct", "dc/dbc/eth__helper__functions_8h.html#a02017dd8cf8adba262ceb26e0163a64f", null ],
     [ "curl_callback", "dc/dbc/eth__helper__functions_8h.html#aa0f8322feba45dd6e4110c92397b2732", null ],
-    [ "curl_post", "dc/dbc/eth__helper__functions_8h.html#ab6d124e27877cde7076f94fa6439ea83", null ],
+    [ "curl_post", "dc/dbc/eth__helper__functions_8h.html#ac9333e6d163be21216a871b3e71d207e", null ],
+    [ "dec_to_32hex", "dc/dbc/eth__helper__functions_8h.html#a99dffec8870b0ae3663e07909cea6b7a", null ],
     [ "dec_to_i256", "dc/dbc/eth__helper__functions_8h.html#a617d29f4e99dd3dcb5e2a670dcaf1d69", null ],
     [ "decode", "dc/dbc/eth__helper__functions_8h.html#abbec3fe45e7b6c13c5d534e5dfc4543b", null ],
     [ "decode_param", "dc/dbc/eth__helper__functions_8h.html#a55009f57edd69b295860a7b8b685ab2b", null ],
+    [ "destroy_curl_struct", "dc/dbc/eth__helper__functions_8h.html#ae95b2c75f0c9cacbf478ae3043f12aa6", null ],
     [ "encode", "dc/dbc/eth__helper__functions_8h.html#a47ab7911ff4d29153e849da3691c26b6", null ],
     [ "encode_param", "dc/dbc/eth__helper__functions_8h.html#a1785a882c65e47ef40d0587235f82275", null ],
     [ "encode_string", "dc/dbc/eth__helper__functions_8h.html#a1776518e83508cdbecdf21f16d916d46", null ],
@@ -30,12 +34,19 @@ var eth__helper__functions_8h =
     [ "eth_getTransactionCount", "dc/dbc/eth__helper__functions_8h.html#af71a43bad614554041a0bbc70f5fcdea", null ],
     [ "eth_getTransactionReceipt", "dc/dbc/eth__helper__functions_8h.html#aeec254eba111b5daca0926c13c5e40bd", null ],
     [ "extract_array_type", "dc/dbc/eth__helper__functions_8h.html#ac04f9dc4ef42981618e61f6bc2196156", null ],
+    [ "get_address_from_prkey", "dc/dbc/eth__helper__functions_8h.html#a2fe1212849a89d9403353fefbceac174", null ],
     [ "get_type", "dc/dbc/eth__helper__functions_8h.html#a08f65881a82ec8e34c694e2fc677bc31", null ],
-    [ "handle_result", "dc/dbc/eth__helper__functions_8h.html#a985b29f6a4113d2847064ed600cadb2b", null ],
+    [ "handle_result", "dc/dbc/eth__helper__functions_8h.html#aa85f9628d62873487fe0171a1554a1e4", null ],
+    [ "hash", "dc/dbc/eth__helper__functions_8h.html#acedced20e741715b96a13a0bc4b41ebf", null ],
     [ "i256_to_dec", "dc/dbc/eth__helper__functions_8h.html#a230e663c3b3dc90dd03e4cdd31a349bb", null ],
-    [ "operator<<", "dc/dbc/eth__helper__functions_8h.html#a6f9e325da10b4b6576805d947f6b8b98", null ],
+    [ "operator<<", "dc/dbc/eth__helper__functions_8h.html#aed55a027dc1069e035db7772d964556d", null ],
     [ "operator<<", "dc/dbc/eth__helper__functions_8h.html#a79b8f0a5c63d38c85689351a25b1fd29", null ],
+    [ "rlp_encode", "dc/dbc/eth__helper__functions_8h.html#a319b4b2957ed7961871807ec18b970ec", null ],
+    [ "secp256k1_recover_address", "dc/dbc/eth__helper__functions_8h.html#a793812509ea7e7b32b737862ab3dfad8", null ],
+    [ "secp256k1_sign", "dc/dbc/eth__helper__functions_8h.html#ac212afafb4fcf10be423050f7c012d58", null ],
+    [ "secp256k1_sign_and_verify", "dc/dbc/eth__helper__functions_8h.html#a5773fc2e2807d4207030bb00a3eb5dea", null ],
     [ "u256_to_u64", "dc/dbc/eth__helper__functions_8h.html#aac72f62e3cc5082b067e720a817f1514", null ],
     [ "u64_to_u256", "dc/dbc/eth__helper__functions_8h.html#a1775b0bab9738d2aa1c8ec382a41b5ed", null ],
-    [ "BUFFER_SIZE", "dc/dbc/eth__helper__functions_8h.html#aabe53935d6f5315672c287540aafdde3", null ]
+    [ "BUFFER_SIZE", "dc/dbc/eth__helper__functions_8h.html#aabe53935d6f5315672c287540aafdde3", null ],
+    [ "ERROR_BUF_SIZE", "dc/dbc/eth__helper__functions_8h.html#ab91b3e1b585773c1d576714586339407", null ]
 ];

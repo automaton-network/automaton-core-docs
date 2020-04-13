@@ -1,6 +1,8 @@
 <map id="automaton::core::interop::ethereum::eth_getBalance" name="automaton::core::interop::ethereum::eth_getBalance">
-<area shape="rect" id="node1" title=" " alt="" coords="5,39,184,80"/>
-<area shape="rect" id="node2" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#ab6d124e27877cde7076f94fa6439ea83" title=" " alt="" coords="232,39,391,80"/>
-<area shape="rect" id="node3" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#aa0f8322feba45dd6e4110c92397b2732" title=" " alt="" coords="439,5,603,47"/>
-<area shape="rect" id="node4" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a985b29f6a4113d2847064ed600cadb2b" title=" " alt="" coords="439,71,604,112"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,85,184,126"/>
+<area shape="rect" id="node2" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#ac9333e6d163be21216a871b3e71d207e" title=" " alt="" coords="232,85,391,126"/>
+<area shape="rect" id="node3" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a02017dd8cf8adba262ceb26e0163a64f" title=" " alt="" coords="459,5,617,61"/>
+<area shape="rect" id="node5" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#ae95b2c75f0c9cacbf478ae3043f12aa6" title=" " alt="" coords="439,85,637,126"/>
+<area shape="rect" id="node6" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#aa85f9628d62873487fe0171a1554a1e4" title=" " alt="" coords="455,150,621,191"/>
+<area shape="rect" id="node4" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#aa0f8322feba45dd6e4110c92397b2732" title=" " alt="" coords="685,13,849,54"/>
 </map>

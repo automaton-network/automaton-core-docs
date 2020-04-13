@@ -103,15 +103,18 @@ $(document).ready(function(){initNavTree('dc/dbc/eth__helper__functions_8h.html'
 <code>#include &lt;utility&gt;</code><br />
 <code>#include &lt;vector&gt;</code><br />
 <code>#include &lt;json.hpp&gt;</code><br />
+<code>#include &lt;secp256k1.h&gt;</code><br />
+<code>#include &lt;secp256k1_recovery.h&gt;</code><br />
 <code>#include &quot;gtest/gtest.h&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../d1/d13/status_8h.html">automaton/core/common/status.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../da/d44/_keccak__256__cryptopp_8h.html">automaton/core/crypto/cryptopp/Keccak_256_cryptopp.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../dc/dac/io_8h.html">automaton/core/io/io.h</a>&quot;</code><br />
 </div><div class="textblock"><div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-0-trigger" src="../../closed.png" alt="+"/> Include dependency graph for eth_helper_functions.h:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="../../d9/d99/eth__helper__functions_8h__incl.svg" width="100%" height="451"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="../../d9/d99/eth__helper__functions_8h__incl.svg" width="100%" height="529"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 </div>
 </div><div class="textblock"><div id="dynsection-1" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
@@ -119,12 +122,14 @@ $(document).ready(function(){initNavTree('dc/dbc/eth__helper__functions_8h.html'
 <div id="dynsection-1-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-1-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../d8/d20/eth__helper__functions_8h__dep__incl.svg" width="342" height="112"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d8/d20/eth__helper__functions_8h__dep__incl.svg" width="494" height="112"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 </div><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/ddc/structautomaton_1_1core_1_1interop_1_1ethereum_1_1curl__struct.html">automaton::core::interop::ethereum::curl_struct</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dea/structautomaton_1_1core_1_1interop_1_1ethereum_1_1type.html">automaton::core::interop::ethereum::type</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -168,16 +173,22 @@ Functions</h2></td></tr>
 <tr class="separator:aa50eed459424657a958f1de0e7668bea"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a414060673c883b4f153cd1a613df435f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a414060673c883b4f153cd1a613df435f">automaton::core::interop::ethereum::check_and_resize_buffer</a> (char **buffer, size_t *size, size_t pos, size_t data_size)</td></tr>
 <tr class="separator:a414060673c883b4f153cd1a613df435f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a02017dd8cf8adba262ceb26e0163a64f"><td class="memItemLeft" align="right" valign="top">curl_struct *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a02017dd8cf8adba262ceb26e0163a64f">automaton::core::interop::ethereum::create_new_curl_struct</a> (const std::string &amp;url)</td></tr>
+<tr class="separator:a02017dd8cf8adba262ceb26e0163a64f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa0f8322feba45dd6e4110c92397b2732"><td class="memItemLeft" align="right" valign="top">size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#aa0f8322feba45dd6e4110c92397b2732">automaton::core::interop::ethereum::curl_callback</a> (void *contents, size_t size, size_t nmemb, std::string *s)</td></tr>
 <tr class="separator:aa0f8322feba45dd6e4110c92397b2732"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab6d124e27877cde7076f94fa6439ea83"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d6a/structautomaton_1_1core_1_1common_1_1status.html">status</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#ab6d124e27877cde7076f94fa6439ea83">automaton::core::interop::ethereum::curl_post</a> (const std::string &amp;url, const std::string &amp;data)</td></tr>
-<tr class="separator:ab6d124e27877cde7076f94fa6439ea83"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac9333e6d163be21216a871b3e71d207e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d6a/structautomaton_1_1core_1_1common_1_1status.html">status</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#ac9333e6d163be21216a871b3e71d207e">automaton::core::interop::ethereum::curl_post</a> (const std::string &amp;url, const std::string &amp;data, uint32_t call_id)</td></tr>
+<tr class="separator:ac9333e6d163be21216a871b3e71d207e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a99dffec8870b0ae3663e07909cea6b7a"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a99dffec8870b0ae3663e07909cea6b7a">automaton::core::interop::ethereum::dec_to_32hex</a> (uint32_t n)</td></tr>
+<tr class="separator:a99dffec8870b0ae3663e07909cea6b7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a617d29f4e99dd3dcb5e2a670dcaf1d69"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a617d29f4e99dd3dcb5e2a670dcaf1d69">automaton::core::interop::ethereum::dec_to_i256</a> (bool is_signed, std::string s)</td></tr>
 <tr class="separator:a617d29f4e99dd3dcb5e2a670dcaf1d69"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abbec3fe45e7b6c13c5d534e5dfc4543b"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#abbec3fe45e7b6c13c5d534e5dfc4543b">automaton::core::interop::ethereum::decode</a> (const std::string &amp;signatures_json, const std::string &amp;data)</td></tr>
 <tr class="separator:abbec3fe45e7b6c13c5d534e5dfc4543b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a55009f57edd69b295860a7b8b685ab2b"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a55009f57edd69b295860a7b8b685ab2b">automaton::core::interop::ethereum::decode_param</a> (type t, const std::string &amp;data, size_t pos)</td></tr>
 <tr class="separator:a55009f57edd69b295860a7b8b685ab2b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae95b2c75f0c9cacbf478ae3043f12aa6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#ae95b2c75f0c9cacbf478ae3043f12aa6">automaton::core::interop::ethereum::destroy_curl_struct</a> (curl_struct *c_struct)</td></tr>
+<tr class="separator:ae95b2c75f0c9cacbf478ae3043f12aa6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a47ab7911ff4d29153e849da3691c26b6"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a47ab7911ff4d29153e849da3691c26b6">automaton::core::interop::ethereum::encode</a> (const std::string &amp;signatures_json, const std::string &amp;parameters_json)</td></tr>
 <tr class="separator:a47ab7911ff4d29153e849da3691c26b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1785a882c65e47ef40d0587235f82275"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a1785a882c65e47ef40d0587235f82275">automaton::core::interop::ethereum::encode_param</a> (type t, const <a class="el" href="../../dd/de7/core_8cc.html#ab701e3ac61a85b337ec5c1abaad6742d">json</a> &amp;json_data, char **buffer, size_t *buf_size, size_t *head_pos, size_t *tail_pos)</td></tr>
@@ -196,16 +207,28 @@ Functions</h2></td></tr>
 <tr class="separator:aeec254eba111b5daca0926c13c5e40bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac04f9dc4ef42981618e61f6bc2196156"><td class="memItemLeft" align="right" valign="top">type&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#ac04f9dc4ef42981618e61f6bc2196156">automaton::core::interop::ethereum::extract_array_type</a> (std::string s)</td></tr>
 <tr class="separator:ac04f9dc4ef42981618e61f6bc2196156"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2fe1212849a89d9403353fefbceac174"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a2fe1212849a89d9403353fefbceac174">automaton::core::interop::ethereum::get_address_from_prkey</a> (const std::string &amp;private_key_hex)</td></tr>
+<tr class="separator:a2fe1212849a89d9403353fefbceac174"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a08f65881a82ec8e34c694e2fc677bc31"><td class="memItemLeft" align="right" valign="top">type&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a08f65881a82ec8e34c694e2fc677bc31">automaton::core::interop::ethereum::get_type</a> (std::string s)</td></tr>
 <tr class="separator:a08f65881a82ec8e34c694e2fc677bc31"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a985b29f6a4113d2847064ed600cadb2b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d6a/structautomaton_1_1core_1_1common_1_1status.html">status</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a985b29f6a4113d2847064ed600cadb2b">automaton::core::interop::ethereum::handle_result</a> (const std::string &amp;result)</td></tr>
-<tr class="separator:a985b29f6a4113d2847064ed600cadb2b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa85f9628d62873487fe0171a1554a1e4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d6a/structautomaton_1_1core_1_1common_1_1status.html">status</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#aa85f9628d62873487fe0171a1554a1e4">automaton::core::interop::ethereum::handle_result</a> (const std::string &amp;message, uint32_t call_id)</td></tr>
+<tr class="separator:aa85f9628d62873487fe0171a1554a1e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acedced20e741715b96a13a0bc4b41ebf"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#acedced20e741715b96a13a0bc4b41ebf">automaton::core::interop::ethereum::hash</a> (const std::string &amp;data)</td></tr>
+<tr class="separator:acedced20e741715b96a13a0bc4b41ebf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a230e663c3b3dc90dd03e4cdd31a349bb"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a230e663c3b3dc90dd03e4cdd31a349bb">automaton::core::interop::ethereum::i256_to_dec</a> (bool is_signed, const std::string &amp;s)</td></tr>
 <tr class="separator:a230e663c3b3dc90dd03e4cdd31a349bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6f9e325da10b4b6576805d947f6b8b98"><td class="memItemLeft" align="right" valign="top">static std::ostream &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a6f9e325da10b4b6576805d947f6b8b98">automaton::core::interop::ethereum::operator&lt;&lt;</a> (std::ostream &amp;os, const abi_type &amp;obj)</td></tr>
-<tr class="separator:a6f9e325da10b4b6576805d947f6b8b98"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aed55a027dc1069e035db7772d964556d"><td class="memItemLeft" align="right" valign="top">std::ostream &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#aed55a027dc1069e035db7772d964556d">automaton::core::interop::ethereum::operator&lt;&lt;</a> (std::ostream &amp;os, const abi_type &amp;obj)</td></tr>
+<tr class="separator:aed55a027dc1069e035db7772d964556d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a79b8f0a5c63d38c85689351a25b1fd29"><td class="memItemLeft" align="right" valign="top">std::ostream &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a79b8f0a5c63d38c85689351a25b1fd29">automaton::core::interop::ethereum::operator&lt;&lt;</a> (std::ostream &amp;os, const type &amp;obj)</td></tr>
 <tr class="separator:a79b8f0a5c63d38c85689351a25b1fd29"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a319b4b2957ed7961871807ec18b970ec"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a319b4b2957ed7961871807ec18b970ec">automaton::core::interop::ethereum::rlp_encode</a> (std::string s, bool is_list)</td></tr>
+<tr class="separator:a319b4b2957ed7961871807ec18b970ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a793812509ea7e7b32b737862ab3dfad8"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a793812509ea7e7b32b737862ab3dfad8">automaton::core::interop::ethereum::secp256k1_recover_address</a> (const unsigned char *rsv, const unsigned char *message_hash)</td></tr>
+<tr class="separator:a793812509ea7e7b32b737862ab3dfad8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac212afafb4fcf10be423050f7c012d58"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#ac212afafb4fcf10be423050f7c012d58">automaton::core::interop::ethereum::secp256k1_sign</a> (const unsigned char *priv_key, const unsigned char *msg_hash)</td></tr>
+<tr class="separator:ac212afafb4fcf10be423050f7c012d58"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5773fc2e2807d4207030bb00a3eb5dea"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a5773fc2e2807d4207030bb00a3eb5dea">automaton::core::interop::ethereum::secp256k1_sign_and_verify</a> (const unsigned char *priv_key, const unsigned char *message_hash)</td></tr>
+<tr class="separator:a5773fc2e2807d4207030bb00a3eb5dea"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aac72f62e3cc5082b067e720a817f1514"><td class="memItemLeft" align="right" valign="top">uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#aac72f62e3cc5082b067e720a817f1514">automaton::core::interop::ethereum::u256_to_u64</a> (const std::string &amp;s)</td></tr>
 <tr class="separator:aac72f62e3cc5082b067e720a817f1514"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1775b0bab9738d2aa1c8ec382a41b5ed"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a1775b0bab9738d2aa1c8ec382a41b5ed">automaton::core::interop::ethereum::u64_to_u256</a> (uint64_t n)</td></tr>
@@ -215,6 +238,8 @@ Functions</h2></td></tr>
 Variables</h2></td></tr>
 <tr class="memitem:aabe53935d6f5315672c287540aafdde3"><td class="memItemLeft" align="right" valign="top">static const uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#aabe53935d6f5315672c287540aafdde3">automaton::core::interop::ethereum::BUFFER_SIZE</a> = 2048</td></tr>
 <tr class="separator:aabe53935d6f5315672c287540aafdde3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab91b3e1b585773c1d576714586339407"><td class="memItemLeft" align="right" valign="top">static const uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#ab91b3e1b585773c1d576714586339407">automaton::core::interop::ethereum::ERROR_BUF_SIZE</a> = 1024</td></tr>
+<tr class="separator:ab91b3e1b585773c1d576714586339407"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Typedef Documentation</h2>
 <a id="ab701e3ac61a85b337ec5c1abaad6742d"></a>

@@ -9,9 +9,9 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 417)">
 <title>Graphical Class Hierarchy</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-417 449,-417 449,4 -4,4"/>
-<!-- Node80 -->
+<!-- Node81 -->
 <g id="node1" class="node">
-<title>Node80</title>
+<title>Node81</title>
 <g id="a_node1"><a xlink:href="db/d4c/classautomaton_1_1core_1_1network_1_1acceptor.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="6,-357.5 6,-387.5 131,-387.5 131,-357.5 6,-357.5"/>
 <text text-anchor="start" x="14" y="-375.5" font-family="Helvetica,sans-Serif" font-size="10.00">automaton::core::network</text>
@@ -29,9 +29,9 @@
 </a>
 </g>
 </g>
-<!-- Node80&#45;&gt;Node57 -->
+<!-- Node81&#45;&gt;Node57 -->
 <g id="edge1" class="edge">
-<title>Node80&#45;&gt;Node57</title>
+<title>Node81&#45;&gt;Node57</title>
 <path fill="none" stroke="midnightblue" d="M141.36,-362.05C151.83,-360.52 162.54,-358.97 172.79,-357.48"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="140.8,-358.59 131.41,-363.5 141.81,-365.52 140.8,-358.59"/>
 </g>
@@ -45,15 +45,15 @@
 </a>
 </g>
 </g>
-<!-- Node80&#45;&gt;Node59 -->
+<!-- Node81&#45;&gt;Node59 -->
 <g id="edge2" class="edge">
-<title>Node80&#45;&gt;Node59</title>
+<title>Node81&#45;&gt;Node59</title>
 <path fill="none" stroke="midnightblue" d="M141.36,-383.39C151.83,-384.97 162.54,-386.6 172.79,-388.15"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="141.82,-379.92 131.41,-381.88 140.77,-386.84 141.82,-379.92"/>
 </g>
-<!-- Node79 -->
+<!-- Node80 -->
 <g id="node4" class="node">
-<title>Node79</title>
+<title>Node80</title>
 <g id="a_node4"><a xlink:href="d0/d47/classautomaton_1_1core_1_1network_1_1acceptor_1_1acceptor__handler.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="0,-132.5 0,-162.5 137,-162.5 137,-132.5 0,-132.5"/>
 <text text-anchor="start" x="8" y="-150.5" font-family="Helvetica,sans-Serif" font-size="10.00">automaton::core::network</text>
@@ -71,9 +71,9 @@
 </a>
 </g>
 </g>
-<!-- Node79&#45;&gt;Node61 -->
+<!-- Node80&#45;&gt;Node61 -->
 <g id="edge3" class="edge">
-<title>Node79&#45;&gt;Node61</title>
+<title>Node80&#45;&gt;Node61</title>
 <path fill="none" stroke="midnightblue" d="M125.05,-165.68C145.67,-172.43 168.82,-180 188.5,-186.45"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="126.05,-162.33 115.46,-162.54 123.88,-168.98 126.05,-162.33"/>
 </g>
@@ -93,9 +93,9 @@
 <path fill="none" stroke="midnightblue" d="M301.6,-201.5C312.38,-201.5 323.47,-201.5 333.96,-201.5"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="301.38,-198 291.38,-201.5 301.38,-205 301.38,-198"/>
 </g>
-<!-- Node69 -->
+<!-- Node70 -->
 <g id="node7" class="node">
-<title>Node69</title>
+<title>Node70</title>
 <g id="a_node7"><a xlink:href="d9/dfe/classautomaton_1_1core_1_1network_1_1connection.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="6,-49.5 6,-79.5 131,-79.5 131,-49.5 6,-49.5"/>
 <text text-anchor="start" x="14" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">automaton::core::network</text>
@@ -113,9 +113,9 @@
 </a>
 </g>
 </g>
-<!-- Node69&#45;&gt;Node58 -->
+<!-- Node70&#45;&gt;Node58 -->
 <g id="edge5" class="edge">
-<title>Node69&#45;&gt;Node58</title>
+<title>Node70&#45;&gt;Node58</title>
 <path fill="none" stroke="midnightblue" d="M100.39,-85.11C120.59,-98.12 147.8,-114.81 173,-127.5 179.9,-130.97 187.4,-134.34 194.71,-137.42"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="102.21,-82.11 91.92,-79.6 98.39,-87.98 102.21,-82.11"/>
 </g>
@@ -129,15 +129,15 @@
 </a>
 </g>
 </g>
-<!-- Node69&#45;&gt;Node60 -->
+<!-- Node70&#45;&gt;Node60 -->
 <g id="edge6" class="edge">
-<title>Node69&#45;&gt;Node60</title>
+<title>Node70&#45;&gt;Node60</title>
 <path fill="none" stroke="midnightblue" d="M141.68,-64.5C152.05,-64.5 162.65,-64.5 172.79,-64.5"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="141.41,-61 131.41,-64.5 141.41,-68 141.41,-61"/>
 </g>
-<!-- Node70 -->
+<!-- Node71 -->
 <g id="node10" class="node">
-<title>Node70</title>
+<title>Node71</title>
 <g id="a_node10"><a xlink:href="d9/d7a/classautomaton_1_1core_1_1network_1_1zmq__connection.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="173,-0.5 173,-30.5 298,-30.5 298,-0.5 173,-0.5"/>
 <text text-anchor="start" x="181" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">automaton::core::network</text>
@@ -145,15 +145,15 @@
 </a>
 </g>
 </g>
-<!-- Node69&#45;&gt;Node70 -->
+<!-- Node70&#45;&gt;Node71 -->
 <g id="edge7" class="edge">
-<title>Node69&#45;&gt;Node70</title>
+<title>Node70&#45;&gt;Node71</title>
 <path fill="none" stroke="midnightblue" d="M130,-46.53C147.68,-41.28 166.81,-35.6 183.82,-30.55"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="128.94,-43.2 120.35,-49.4 130.93,-49.91 128.94,-43.2"/>
 </g>
-<!-- Node67 -->
+<!-- Node68 -->
 <g id="node11" class="node">
-<title>Node67</title>
+<title>Node68</title>
 <g id="a_node11"><a xlink:href="d6/d94/classautomaton_1_1core_1_1network_1_1connection_1_1connection__handler.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="6,-181 6,-222 131,-222 131,-181 6,-181"/>
 <text text-anchor="start" x="14" y="-210" font-family="Helvetica,sans-Serif" font-size="10.00">automaton::core::network</text>
@@ -162,9 +162,9 @@
 </a>
 </g>
 </g>
-<!-- Node67&#45;&gt;Node61 -->
+<!-- Node68&#45;&gt;Node61 -->
 <g id="edge9" class="edge">
-<title>Node67&#45;&gt;Node61</title>
+<title>Node68&#45;&gt;Node61</title>
 <path fill="none" stroke="midnightblue" d="M141.6,-201.5C154.43,-201.5 167.6,-201.5 179.84,-201.5"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="141.41,-198 131.41,-201.5 141.41,-205 141.41,-198"/>
 </g>
@@ -178,24 +178,24 @@
 </a>
 </g>
 </g>
-<!-- Node67&#45;&gt;Node0 -->
+<!-- Node68&#45;&gt;Node0 -->
 <g id="edge8" class="edge">
-<title>Node67&#45;&gt;Node0</title>
+<title>Node68&#45;&gt;Node0</title>
 <path fill="none" stroke="midnightblue" d="M141.25,-222.81C155.59,-227.06 170.37,-231.45 183.82,-235.45"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="141.99,-219.38 131.41,-219.89 140,-226.09 141.99,-219.38"/>
 </g>
-<!-- Node68 -->
+<!-- Node69 -->
 <g id="node13" class="node">
-<title>Node68</title>
+<title>Node69</title>
 <g id="a_node13"><a xlink:href="d7/d06/classclient__handler.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="197,-99 197,-118 274,-118 274,-99 197,-99"/>
 <text text-anchor="middle" x="235.5" y="-106" font-family="Helvetica,sans-Serif" font-size="10.00">client_handler</text>
 </a>
 </g>
 </g>
-<!-- Node67&#45;&gt;Node68 -->
+<!-- Node68&#45;&gt;Node69 -->
 <g id="edge10" class="edge">
-<title>Node67&#45;&gt;Node68</title>
+<title>Node68&#45;&gt;Node69</title>
 <path fill="none" stroke="midnightblue" d="M132.67,-175.58C134.15,-174.58 135.6,-173.55 137,-172.5 157.18,-157.3 152.14,-142.76 173,-128.5 180.14,-123.62 188.54,-119.87 196.81,-117"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="130.57,-172.76 123.87,-180.96 134.22,-178.73 130.57,-172.76"/>
 </g>

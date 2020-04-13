@@ -1,13 +1,13 @@
 <map id="automaton::core::interop::ethereum::eth_transaction::sign_tx" name="automaton::core::interop::ethereum::eth_transaction::sign_tx">
-<area shape="rect" id="node1" title=" " alt="" coords="5,197,183,253"/>
-<area shape="rect" id="node2" href="$da/dd5/namespaceautomaton_1_1core_1_1io.html#ab19202c80dffefe2cd1a87a60d06a0b3" title=" " alt="" coords="485,5,616,47"/>
-<area shape="rect" id="node3" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a4e999f5f941e39170753893811249a18" title=" " alt="" coords="231,71,413,112"/>
-<area shape="rect" id="node5" href="$da/dd5/namespaceautomaton_1_1core_1_1io.html#a3206e08bc72b97ac681d42a57ea35b62" title=" " alt="" coords="485,288,616,329"/>
-<area shape="rect" id="node6" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#acedced20e741715b96a13a0bc4b41ebf" title=" " alt="" coords="243,139,401,180"/>
-<area shape="rect" id="node8" href="$da/dd5/namespaceautomaton_1_1core_1_1io.html#a6e93384a5c0d6481352d0ec3211a3d2d" title=" " alt="" coords="257,204,387,245"/>
-<area shape="rect" id="node10" href="$da/dd5/namespaceautomaton_1_1core_1_1io.html#a6c991a6589248fd1be67bfd12d60c49c" title=" " alt="" coords="485,371,616,412"/>
-<area shape="rect" id="node11" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a319b4b2957ed7961871807ec18b970ec" title=" " alt="" coords="243,321,401,363"/>
-<area shape="rect" id="node4" href="$d0/d6e/namespaceautomaton_1_1tools_1_1miner.html#a05909e124eb3ea47b74479125c710527" title=" " alt="" coords="473,71,628,112"/>
-<area shape="rect" id="node7" href="$dd/db1/classautomaton_1_1core_1_1crypto_1_1cryptopp_1_1_keccak__256__cryptopp.html#aa189a48741dc1432fdc1380051913e1b" title=" " alt="" coords="461,135,640,191"/>
-<area shape="rect" id="node9" href="$da/dd5/namespaceautomaton_1_1core_1_1io.html#abe415d62b91abcbae08337eb7a6c65de" title=" " alt="" coords="485,215,616,256"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,187,183,243"/>
+<area shape="rect" id="node2" href="$da/dd5/namespaceautomaton_1_1core_1_1io.html#ab19202c80dffefe2cd1a87a60d06a0b3" title=" " alt="" coords="487,5,618,47"/>
+<area shape="rect" id="node3" href="$da/dd5/namespaceautomaton_1_1core_1_1io.html#a3206e08bc72b97ac681d42a57ea35b62" title=" " alt="" coords="487,145,618,187"/>
+<area shape="rect" id="node4" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#acedced20e741715b96a13a0bc4b41ebf" title=" " alt="" coords="243,312,401,353"/>
+<area shape="rect" id="node6" href="$da/dd5/namespaceautomaton_1_1core_1_1io.html#a6e93384a5c0d6481352d0ec3211a3d2d" title=" " alt="" coords="257,379,387,420"/>
+<area shape="rect" id="node8" href="$da/dd5/namespaceautomaton_1_1core_1_1io.html#a6c991a6589248fd1be67bfd12d60c49c" title=" " alt="" coords="487,228,618,269"/>
+<area shape="rect" id="node9" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a319b4b2957ed7961871807ec18b970ec" title=" " alt="" coords="243,195,401,236"/>
+<area shape="rect" id="node10" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a5773fc2e2807d4207030bb00a3eb5dea" title=" " alt="" coords="231,63,413,119"/>
+<area shape="rect" id="node5" href="$dd/db1/classautomaton_1_1core_1_1crypto_1_1cryptopp_1_1_keccak__256__cryptopp.html#aa189a48741dc1432fdc1380051913e1b" title=" " alt="" coords="463,302,642,358"/>
+<area shape="rect" id="node7" href="$da/dd5/namespaceautomaton_1_1core_1_1io.html#abe415d62b91abcbae08337eb7a6c65de" title=" " alt="" coords="487,381,618,423"/>
+<area shape="rect" id="node11" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#ac212afafb4fcf10be423050f7c012d58" title=" " alt="" coords="461,71,644,112"/>
 </map>

@@ -85,28 +85,27 @@ $(document).ready(function(){initNavTree('de/de4/eth__contract__curl_8h.html','.
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
+<a href="#namespaces">Namespaces</a>  </div>
   <div class="headertitle">
 <div class="title">eth_contract_curl.h File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &lt;functional&gt;</code><br />
 <code>#include &lt;memory&gt;</code><br />
+<code>#include &lt;mutex&gt;</code><br />
 <code>#include &lt;string&gt;</code><br />
 <code>#include &lt;unordered_map&gt;</code><br />
 <code>#include &lt;utility&gt;</code><br />
 <code>#include &lt;vector&gt;</code><br />
 <code>#include &lt;curl/curl.h&gt;</code><br />
 <code>#include &lt;json.hpp&gt;</code><br />
-<code>#include &quot;<a class="el" href="../../d4/d67/connection_8h.html">automaton/core/network/connection.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../d1/d13/status_8h.html">automaton/core/common/status.h</a>&quot;</code><br />
 </div><div class="textblock"><div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-0-trigger" src="../../closed.png" alt="+"/> Include dependency graph for eth_contract_curl.h:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="../../d7/d86/eth__contract__curl_8h__incl.svg" width="100%" height="518"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="../../d7/d86/eth__contract__curl_8h__incl.svg" width="100%" height="451"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 </div>
 </div><div class="textblock"><div id="dynsection-1" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
@@ -133,66 +132,7 @@ Namespaces</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html">automaton::core::interop::ethereum</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:a99dffec8870b0ae3663e07909cea6b7a"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a99dffec8870b0ae3663e07909cea6b7a">automaton::core::interop::ethereum::dec_to_32hex</a> (uint32_t n)</td></tr>
-<tr class="separator:a99dffec8870b0ae3663e07909cea6b7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acedced20e741715b96a13a0bc4b41ebf"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#acedced20e741715b96a13a0bc4b41ebf">automaton::core::interop::ethereum::hash</a> (const std::string &amp;data)</td></tr>
-<tr class="separator:acedced20e741715b96a13a0bc4b41ebf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:a2d5ca52bac9847f119544cc9c3cf8f89"><td class="memItemLeft" align="right" valign="top">static const uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de4/eth__contract__curl_8h.html#a2d5ca52bac9847f119544cc9c3cf8f89">ERROR_BUF_SIZE</a> = 1024</td></tr>
-<tr class="separator:a2d5ca52bac9847f119544cc9c3cf8f89"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac694bfabbaa64d92a4ef88ea6b09b956"><td class="memItemLeft" align="right" valign="top">static const uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de4/eth__contract__curl_8h.html#ac694bfabbaa64d92a4ef88ea6b09b956">MSG_BUF_SIZE</a> = 1024</td></tr>
-<tr class="separator:ac694bfabbaa64d92a4ef88ea6b09b956"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="a2d5ca52bac9847f119544cc9c3cf8f89"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2d5ca52bac9847f119544cc9c3cf8f89">&#9670;&nbsp;</a></span>ERROR_BUF_SIZE</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">const uint32_t ERROR_BUF_SIZE = 1024</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ac694bfabbaa64d92a4ef88ea6b09b956"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac694bfabbaa64d92a4ef88ea6b09b956">&#9670;&nbsp;</a></span>MSG_BUF_SIZE</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">const uint32_t MSG_BUF_SIZE = 1024</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

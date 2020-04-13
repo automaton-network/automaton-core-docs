@@ -1,4 +1,10 @@
 <map id="automaton::core::interop::ethereum::eth_contract::register_contract" name="automaton::core::interop::ethereum::eth_contract::register_contract">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,165,61"/>
-<area shape="rect" id="node2" href="$d4/de7/classautomaton_1_1core_1_1interop_1_1ethereum_1_1eth__contract.html#a81d2a34e602ffd01b8a9ffae5223fc96" title=" " alt="" coords="213,5,373,61"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,77,165,133"/>
+<area shape="rect" id="node2" href="$d4/de7/classautomaton_1_1core_1_1interop_1_1ethereum_1_1eth__contract.html#a81d2a34e602ffd01b8a9ffae5223fc96" title=" " alt="" coords="213,77,373,133"/>
+<area shape="rect" id="node3" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#af94c20cb01294d2784980377da7684c1" title=" " alt="" coords="421,85,585,126"/>
+<area shape="rect" id="node4" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#ac9333e6d163be21216a871b3e71d207e" title=" " alt="" coords="633,85,792,126"/>
+<area shape="rect" id="node5" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a02017dd8cf8adba262ceb26e0163a64f" title=" " alt="" coords="860,5,1019,61"/>
+<area shape="rect" id="node7" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#ae95b2c75f0c9cacbf478ae3043f12aa6" title=" " alt="" coords="840,85,1039,126"/>
+<area shape="rect" id="node8" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#aa85f9628d62873487fe0171a1554a1e4" title=" " alt="" coords="857,150,1022,191"/>
+<area shape="rect" id="node6" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#aa0f8322feba45dd6e4110c92397b2732" title=" " alt="" coords="1087,13,1251,54"/>
 </map>

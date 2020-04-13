@@ -1,6 +1,8 @@
 <map id="automaton::core::interop::ethereum::eth_getTransactionReceipt" name="automaton::core::interop::ethereum::eth_getTransactionReceipt">
-<area shape="rect" id="node1" title=" " alt="" coords="5,31,204,87"/>
-<area shape="rect" id="node2" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#ab6d124e27877cde7076f94fa6439ea83" title=" " alt="" coords="252,39,411,80"/>
-<area shape="rect" id="node3" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#aa0f8322feba45dd6e4110c92397b2732" title=" " alt="" coords="459,5,623,47"/>
-<area shape="rect" id="node4" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a985b29f6a4113d2847064ed600cadb2b" title=" " alt="" coords="459,71,624,112"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,77,204,133"/>
+<area shape="rect" id="node2" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#ac9333e6d163be21216a871b3e71d207e" title=" " alt="" coords="252,85,411,126"/>
+<area shape="rect" id="node3" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a02017dd8cf8adba262ceb26e0163a64f" title=" " alt="" coords="479,5,637,61"/>
+<area shape="rect" id="node5" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#ae95b2c75f0c9cacbf478ae3043f12aa6" title=" " alt="" coords="459,85,657,126"/>
+<area shape="rect" id="node6" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#aa85f9628d62873487fe0171a1554a1e4" title=" " alt="" coords="475,150,641,191"/>
+<area shape="rect" id="node4" href="$d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#aa0f8322feba45dd6e4110c92397b2732" title=" " alt="" coords="705,13,869,54"/>
 </map>

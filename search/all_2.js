@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['bad_5frequest_70',['bad_request',['../d9/d1d/classautomaton_1_1core_1_1network_1_1http__server.html#a9656b68f2e3c7280cf001f18ff70037d',1,'automaton::core::network::http_server::bad_request()'],['../d9/d1d/classautomaton_1_1core_1_1network_1_1http__server.html#aa3fdf8b8baf0ff8e9b7d0969eb44a527a3835e7706cda1bd46b456700a6d2872d',1,'automaton::core::network::http_server::BAD_REQUEST()']]],
+  ['bad_5frequest_70',['BAD_REQUEST',['../d9/d1d/classautomaton_1_1core_1_1network_1_1http__server.html#aa3fdf8b8baf0ff8e9b7d0969eb44a527a3835e7706cda1bd46b456700a6d2872d',1,'automaton::core::network::http_server::BAD_REQUEST()'],['../d9/d1d/classautomaton_1_1core_1_1network_1_1http__server.html#a9656b68f2e3c7280cf001f18ff70037d',1,'automaton::core::network::http_server::bad_request()']]],
   ['bandwidth_71',['bandwidth',['../d6/de8/structautomaton_1_1core_1_1network_1_1connection__params.html#a230098c905db7081a9fc389ca438fe04',1,'automaton::core::network::connection_params::bandwidth()'],['../de/ddc/structautomaton_1_1core_1_1network_1_1acceptor__params.html#a17f0986248c5e0774b71556f83fa08ea',1,'automaton::core::network::acceptor_params::bandwidth()']]],
   ['bin2hex_72',['bin2hex',['../da/dd5/namespaceautomaton_1_1core_1_1io.html#ab19202c80dffefe2cd1a87a60d06a0b3',1,'automaton::core::io']]],
   ['bind_5fcore_73',['bind_core',['../d0/d66/classautomaton_1_1core_1_1script_1_1engine.html#a530ebf5615f9b5fe50c52ead2afe9677',1,'automaton::core::script::engine']]],

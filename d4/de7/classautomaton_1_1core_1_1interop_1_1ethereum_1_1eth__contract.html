@@ -268,15 +268,14 @@ Static Public Attributes</h2></td></tr>
   <table class="params">
     <tr><td class="paramdir">[in]</td><td class="paramname">fname</td><td>function name/alias as given in register_contract </td></tr>
     <tr><td class="paramdir">[in]</td><td class="paramname">params</td><td>case 1: sending raw transaction -&gt; params is signed transaction case 2: params is list in json format where 'bytes' and 'address' are given in hex, integers in decimal, 'string' is string, 'boolean' is "true" or "false" (without quotes) ! 'fixed' numbers are not yet supported ! </td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">nonce</td><td>in hex (without 0x prefix) </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">private_key</td><td>in hex (without 0x prefix) </td></tr>
     <tr><td class="paramdir">[in]</td><td class="paramname">gas_price</td><td>in hex (without 0x prefix) </td></tr>
     <tr><td class="paramdir">[in]</td><td class="paramname">gas_limit</td><td>in hex (without 0x prefix) </td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">value</td><td>in hex (without 0x prefix) </td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">private_key</td><td>in hex (without 0x prefix) </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">value</td><td>in hex (without 0x prefix)</td></tr>
   </table>
   </dd>
 </dl>
-<dl class="section return"><dt>Returns</dt><dd>status code where msg contains the function result - transaction receipt if the function is a transaction, decoded function result in json format, otherwise </dd></dl>
+<dl class="section return"><dt>Returns</dt><dd>status code: 1) if function call was successful status code is 'OK' and status msg contains the function result: transaction receipt if the function is a transaction, decoded function result in json format, otherwise 2) if function call failed status code shows error type and status msg contains the error </dd></dl>
 
 <p class="reference">References <a class="el" href="../../da/dd5/namespaceautomaton_1_1core_1_1io.html#ab19202c80dffefe2cd1a87a60d06a0b3">automaton::core::io::bin2hex()</a>, <a class="el" href="../../da/d6a/structautomaton_1_1core_1_1common_1_1status.html#abc2dc884202afdd8cd8275b5e374c845">automaton::core::common::status::code</a>, <a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#ac9333e6d163be21216a871b3e71d207e">automaton::core::interop::ethereum::curl_post()</a>, <a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a47ab7911ff4d29153e849da3691c26b6">automaton::core::interop::ethereum::encode()</a>, <a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#aeec254eba111b5daca0926c13c5e40bd">automaton::core::interop::ethereum::eth_getTransactionReceipt()</a>, <a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a2fe1212849a89d9403353fefbceac174">automaton::core::interop::ethereum::get_address_from_prkey()</a>, <a class="el" href="../../da/d6a/structautomaton_1_1core_1_1common_1_1status.html#a0f6977fc1cd539a9b9bd359bc4b24b56">automaton::core::common::status::msg</a>, and <a class="el" href="../../d2/d91/namespaceautomaton_1_1core_1_1interop_1_1ethereum.html#a27b51ee15291a4da371626add75e3e4aa62abd0cffe71e4b1a41d641dc0fba10f">automaton::core::interop::ethereum::string</a>.</p>
 <div id="dynsection-4" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">

@@ -1,10 +1,10 @@
 <map id="node.h" name="node.h">
-<area shape="rect" id="node1" title=" " alt="" coords="215,5,275,32"/>
-<area shape="rect" id="node2" href="$d9/d5a/lua__node_8h.html" title=" " alt="" coords="30,80,114,107"/>
-<area shape="rect" id="node3" href="$dd/de7/core_8cc.html" title=" " alt="" coords="120,155,184,181"/>
-<area shape="rect" id="node5" href="$dc/d32/node__updater_8h.html" title=" " alt="" coords="190,80,301,107"/>
-<area shape="rect" id="node7" href="$dc/dfd/node_8cc.html" title=" " alt="" coords="325,80,392,107"/>
-<area shape="rect" id="node8" href="$df/dd2/testnet_8cc.html" title=" " alt="" coords="417,80,495,107"/>
+<area shape="rect" id="node1" title=" " alt="" coords="182,5,242,32"/>
+<area shape="rect" id="node2" href="$dd/de7/core_8cc.html" title=" " alt="" coords="120,155,184,181"/>
+<area shape="rect" id="node3" href="$d9/d5a/lua__node_8h.html" title=" " alt="" coords="19,80,103,107"/>
+<area shape="rect" id="node5" href="$dc/dfd/node_8cc.html" title=" " alt="" coords="179,80,245,107"/>
+<area shape="rect" id="node6" href="$dc/d32/node__updater_8h.html" title=" " alt="" coords="270,80,381,107"/>
+<area shape="rect" id="node8" href="$df/dd2/testnet_8cc.html" title=" " alt="" coords="405,80,483,107"/>
 <area shape="rect" id="node4" href="$db/d7e/lua__node_8cc.html" title=" " alt="" coords="5,155,96,181"/>
-<area shape="rect" id="node6" href="$d1/d13/node__updater_8cc.html" title=" " alt="" coords="208,155,325,181"/>
+<area shape="rect" id="node7" href="$d1/d13/node__updater_8cc.html" title=" " alt="" coords="267,155,384,181"/>
 </map>

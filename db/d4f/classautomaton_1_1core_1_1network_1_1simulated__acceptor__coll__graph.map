@@ -1,13 +1,13 @@
 <map id="automaton::core::network::simulated_acceptor" name="automaton::core::network::simulated_acceptor">
-<area shape="rect" id="node1" title=" " alt="" coords="947,197,1113,238"/>
-<area shape="rect" id="node2" href="$db/d4c/classautomaton_1_1core_1_1network_1_1acceptor.html" title=" " alt="" coords="593,42,759,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="943,197,1109,238"/>
+<area shape="rect" id="node2" href="$db/d4c/classautomaton_1_1core_1_1network_1_1acceptor.html" title=" " alt="" coords="589,42,755,83"/>
 <area shape="rect" id="node3" title=" " alt="" coords="310,109,378,136"/>
-<area shape="rect" id="node9" href="$de/ddc/structautomaton_1_1core_1_1network_1_1acceptor__params.html" title=" " alt="" coords="593,250,759,291"/>
+<area shape="rect" id="node9" href="$de/ddc/structautomaton_1_1core_1_1network_1_1acceptor__params.html" title=" " alt="" coords="589,250,755,291"/>
 <area shape="rect" id="node4" title=" " alt="" coords="255,5,433,61"/>
 <area shape="rect" id="node5" href="$d0/d47/classautomaton_1_1core_1_1network_1_1acceptor_1_1acceptor__handler.html" title=" " alt="" coords="5,13,188,54"/>
-<area shape="rect" id="node6" title=" " alt="" coords="601,171,751,227"/>
-<area shape="rect" id="node7" title=" " alt="" coords="587,315,765,371"/>
+<area shape="rect" id="node6" title=" " alt="" coords="597,171,747,227"/>
+<area shape="rect" id="node7" title=" " alt="" coords="583,315,761,371"/>
 <area shape="rect" id="node8" href="$d6/d94/classautomaton_1_1core_1_1network_1_1connection_1_1connection__handler.html" title=" " alt="" coords="261,312,427,368"/>
-<area shape="rect" id="node10" title="STL class." alt="" coords="637,396,715,423"/>
+<area shape="rect" id="node10" title="STL class." alt="" coords="633,396,711,423"/>
 <area shape="rect" id="node11" title="STL class." alt="" coords="282,391,406,433"/>
 </map>

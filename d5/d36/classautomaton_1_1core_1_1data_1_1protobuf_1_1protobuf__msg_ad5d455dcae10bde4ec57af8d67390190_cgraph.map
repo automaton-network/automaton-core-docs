@@ -1,7 +1,7 @@
 <map id="automaton::core::data::protobuf::protobuf_msg::get_message" name="automaton::core::data::protobuf::protobuf_msg::get_message">
-<area shape="rect" id="node1" title=" " alt="" coords="5,99,151,155"/>
-<area shape="rect" id="node2" href="$d2/d94/classautomaton_1_1core_1_1data_1_1factory.html#a839850666943ce90bbd055a9d819e106" title=" " alt="" coords="208,5,369,47"/>
-<area shape="rect" id="node3" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#ace03ef368afcebdfe4c51ab4f2b52283" title=" " alt="" coords="216,71,361,112"/>
-<area shape="rect" id="node4" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#afb52356a5f9676c05a3b28b5c2bd47ef" title=" " alt="" coords="216,135,361,191"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,106,151,162"/>
+<area shape="rect" id="node2" href="$df/d83/classautomaton_1_1core_1_1data_1_1msg.html#ace03ef368afcebdfe4c51ab4f2b52283" title=" " alt="" coords="216,5,361,47"/>
+<area shape="rect" id="node3" href="$d5/d36/classautomaton_1_1core_1_1data_1_1protobuf_1_1protobuf__msg.html#afb52356a5f9676c05a3b28b5c2bd47ef" title=" " alt="" coords="216,70,361,126"/>
+<area shape="rect" id="node4" href="$d2/d94/classautomaton_1_1core_1_1data_1_1factory.html#a839850666943ce90bbd055a9d819e106" title=" " alt="" coords="208,149,369,191"/>
 <area shape="rect" id="node5" href="$de/d12/namespaceel_1_1base_1_1debug.html#af8af3a0ae3755b37ede9f5b4c9e8173c" title=" " alt="" coords="199,215,379,242"/>
 </map>

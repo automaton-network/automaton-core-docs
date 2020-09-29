@@ -1,8 +1,8 @@
 <map id="automaton::core::storage::blobstore::store" name="automaton::core::storage::blobstore::store">
 <area shape="rect" id="node1" title=" " alt="" coords="209,173,372,214"/>
-<area shape="rect" id="node2" href="$dc/d2a/classautomaton_1_1core_1_1state_1_1state__persistent_1_1node.html#a629f483af5d7c9c73de0df09aa0b5fc8" title=" " alt="" coords="6,5,161,61"/>
-<area shape="rect" id="node3" href="$dc/d2a/classautomaton_1_1core_1_1state_1_1state__persistent_1_1node.html#a52ac040d94b3d49cc81921275d38a3f6" title=" " alt="" coords="6,85,161,141"/>
-<area shape="rect" id="node4" href="$dc/d2a/classautomaton_1_1core_1_1state_1_1state__persistent_1_1node.html#a040cf6785c1a2a2704e7e97de5c199a1" title=" " alt="" coords="6,165,161,221"/>
-<area shape="rect" id="node5" href="$dc/d2a/classautomaton_1_1core_1_1state_1_1state__persistent_1_1node.html#a6ac8b6191b097510f8b8ae73590e1e0b" title=" " alt="" coords="6,245,161,301"/>
-<area shape="rect" id="node6" href="$dc/ddc/classautomaton_1_1core_1_1state_1_1state__persistent.html#ab278c0af4557c0ed9613f6abebc63594" title=" " alt="" coords="5,325,161,381"/>
+<area shape="rect" id="node2" href="$dc/ddc/classautomaton_1_1core_1_1state_1_1state__persistent.html#ab278c0af4557c0ed9613f6abebc63594" title=" " alt="" coords="5,5,161,61"/>
+<area shape="rect" id="node3" href="$dc/d2a/classautomaton_1_1core_1_1state_1_1state__persistent_1_1node.html#a629f483af5d7c9c73de0df09aa0b5fc8" title=" " alt="" coords="6,85,161,141"/>
+<area shape="rect" id="node4" href="$dc/d2a/classautomaton_1_1core_1_1state_1_1state__persistent_1_1node.html#a52ac040d94b3d49cc81921275d38a3f6" title=" " alt="" coords="6,165,161,221"/>
+<area shape="rect" id="node5" href="$dc/d2a/classautomaton_1_1core_1_1state_1_1state__persistent_1_1node.html#a040cf6785c1a2a2704e7e97de5c199a1" title=" " alt="" coords="6,245,161,301"/>
+<area shape="rect" id="node6" href="$dc/d2a/classautomaton_1_1core_1_1state_1_1state__persistent_1_1node.html#a6ac8b6191b097510f8b8ae73590e1e0b" title=" " alt="" coords="6,325,161,381"/>
 </map>
